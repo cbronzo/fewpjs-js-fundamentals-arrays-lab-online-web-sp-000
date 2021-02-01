@@ -6,7 +6,7 @@ append.push("Odie")
 
 const prepend  = ["Milo", "Otis", "Garfield"]
 
-prepend.
+prepend.unshift("Casper")
 
 const removeLast  = ["Milo", "Otis", "Garfield"]
 
