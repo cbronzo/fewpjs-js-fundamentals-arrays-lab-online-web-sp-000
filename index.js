@@ -2,7 +2,7 @@
 
 const append  = ["Milo", "Otis", "Garfield"]
 
-
+append
 
 const prepend  = ["Milo", "Otis", "Garfield"]
 const removeLast  = ["Milo", "Otis", "Garfield"]
