@@ -10,7 +10,7 @@ prepend.unshift("Casper")
 
 const removeLast  = ["Milo", "Otis", "Garfield"]
 
-removeLast.
+removeLast.pop("")
 
 const removeFirst  = ["Milo", "Otis", "Garfield"]
 
